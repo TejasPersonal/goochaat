@@ -1,2 +1,0 @@
-#!/bin/bash
-ngrok http --url=suitable-coyote-engaged.ngrok-free.app "$@"
